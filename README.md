@@ -15,7 +15,7 @@ yarn hardhat deploy .\scripts\finalDeploy.js
 ```
 copy the contract address and check in on the etherscan.
 
-#Now frontend
+# Now frontend
 ```
 cd client
 npm install
