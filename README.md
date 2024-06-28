@@ -23,8 +23,3 @@ npm start
 ```
 in contractAddress past your add which you have copied above.
 
-
-cd client
-npm install
-npm start
-```
